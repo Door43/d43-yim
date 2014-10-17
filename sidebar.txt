@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yim:home|Door43 (yim)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yim|d43-yim repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yim/archive/master.zip|d43-yim.zip]]
+
+**Recent Changes**
+{{changes>ns = yim}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yim|Ethnologue data]]
+
